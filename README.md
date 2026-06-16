@@ -124,7 +124,7 @@ Remove noise (OpenCV)
     ↓
 Sharpen image (OpenCV)
     ↓
-Fix brightness & contrast (CLAHE)
+Fix brightness & contrast (PILLOW)
     ↓
 Clean Image
     ↓
