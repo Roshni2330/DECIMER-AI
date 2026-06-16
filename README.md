@@ -159,28 +159,4 @@ After running, `results.csv` will look like:
 Install all with:
 ```bash
 pip install -r requirements.txt
-```
-
 ---
-
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Roshni | Developer — built full pipeline |
-| Ben | Project Lead / Collaborator |
-
----
-
-## 🔮 What's Next
-
-- [ ] Test with more real-world damaged images
-- [ ] Improve cleaning for extreme cases
-- [ ] Upload to Google Cloud Platform (GCP)
-- [ ] Build a simple UI to upload and process images
-
----
-
-## 📬 Contact
-
-For any questions about this project — reach out via GitHub or email.
